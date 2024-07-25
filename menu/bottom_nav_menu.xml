@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/home_ic"
+        android:title=""
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/search_ic"
+        android:title=""
+
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/menu_post"
+        android:icon="@drawable/plus_ic"
+        android:title=""
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/menu_calendar"
+        android:icon="@drawable/calendar_ic"
+        android:title=""
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/profile_ic"
+        android:title=""
+        android:iconTint="#00000000"
+        app:showAsAction="ifRoom|withText"/>
+
+</menu>

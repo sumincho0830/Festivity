@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Festivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="login"><u>Login!</u></string>
+    <string name="signup"><u>sign up</u></string>
+    <string name="create">create account</string>
+    <string name="sign_out"><u>sign out</u></string>
+    <string name="setting"><b><u>setting</u></b></string>
+    <string name="calendar"><b><u>calendar</u></b></string>
+    <string name="invitations"><b><u>invitations</u></b></string>
+    <string name="username">Jaden197</string>
+    <string name="karaoke">
+        [Karaoke night at Danielle’s pub 7 p.m.]\
+        \
+        Anyone up for a quick meet up?... <u>see more</u>
+    </string>
+    <string name="sm_halloween">[Halloween Party]\
+        Reception for upcoming Halloween Party is now open! \
+        Take this opportunity to spend time with your favorite SM artists!\
+        Tickets will be distributed via email...  <u>see more</u>
+    </string>
+    <string name="beach_festival">
+        [🌴 Join Us for the Ultimate Beach Party Bash! 🌊]\
+
+        \Get ready to soak up the sun, feel the sand between your toes, and dance the night away under the stars!
+        \Date: Saturday, July 15, 2024\
+        \Time: 2:00 PM - Midnight\
+        \Location: Sunny Beach, Oceanfront Avenue\
+
+        \What to Expect:\
+
+        \Live DJ &amp; Music: Groove to the hottest tracks and beach beats all day long!
+        ...<u>see more</u>
+    </string>
+
+    <string name="girls_night"><u>Girls\' night</u></string>
+    <string name="clubs"><u>Clubs</u></string>
+    <string name="balls_banquets"><u>Balls &amp; Banquets</u></string>
+    <string name="band"><u>Band</u></string>
+
+    <string name="dinner1"><u>Dinner Party at Jane\'s</u></string>
+    <string name="dinner1_exp">Party for 5 ~20\ bring your own beer!</string>
+
+    <string name="ladies_night"><u>Elder Ladies\’ Night at \Victoria’s Hall</u></string>
+    <string name="ladies_night_exp">exclusively for classy ladies</string>
+
+    <string name="cards_wings"><u>Cards &amp; Wings</u></string>
+    <string name="cards_wings_exp">night for game lovers and spicy wings</string>
+
+    <string name="pop1"><u>Ibiza Onboard Party</u></string>
+    <string name="pop2"><u>San Jose Beer Fest</u></string>
+    <string name="pop3"><u>Coachella</u></string>
+    <string name="pop4"><u>Carnival Rio Brazil</u></string>
+    <string name="pop5"><u>Water Bomb</u></string>
+    <string name="pop6"><u>Halloween SmTown</u></string>
+    <string name="see_more"><u>see more...</u></string>
+
+    <string name="post"><u>Post</u></string>
+    
+    <string-array name="spinner_items">
+        <item>Birthday</item>
+        <item>Brunch</item>
+        <item>Dinner</item>
+        <item>Pool Party</item>
+        <item>Barbeque</item>
+        <item>Halloween</item>
+        <item>Home Bar</item>
+        <item>Karaoke</item>
+        <item>Picnic</item>
+        <item>Tea Party</item>
+        <item>Poker</item>
+        <item>Garden Party</item>
+        <item>Ball</item>
+    </string-array>
+</resources>
