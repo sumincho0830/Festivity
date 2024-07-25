@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--    Bottom Layer: the main shape without stroke-->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#22ffffff"/>
+        </shape>
+    </item>
+
+    <!--    Top layer: the stroke shape on one side-->
+    <item
+        android:right="1dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#dd000000"/>
+        </shape>
+    </item>
+</layer-list>
